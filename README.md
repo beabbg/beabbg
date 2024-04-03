@@ -1,5 +1,5 @@
 # Hola, soy Beatriz :hola:
-![Dizqpon's GitHub stats](https://github-readme-stats.vercel.app/api?username=Dizqpon&show_icons=true&theme=radical)
+![Beabbg's GitHub stats](https://github-readme-stats.vercel.app/api?username=Dizqpon&show_icons=true&theme=radical)
 ## :cohete: Acerca de mí
 Soy un apasionado desarrollador con experiencia en [menciona tus lenguajes de programación o tecnologías principales]. Me encanta trabajar en proyectos que desafían mi creatividad y me permiten crecer profesionalmente.
 ## :plántula: Proyectos Destacados
