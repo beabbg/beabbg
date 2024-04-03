@@ -3,7 +3,7 @@
 ##  Acerca de mí 🚺
 Soy una apasionada . Me encanta trabajar en proyectos que desafían mi creatividad y me permiten crecer profesionalmente.
 ##  Cómo contactarme 📧
-- [LinkedIn]([https://www.linkedin.com/in/beatrizbaltan%C3%A1sgarc%C3%ADa/])
+- [LinkedIn](https://www.linkedin.com/in/beatrizbaltan%C3%A1sgarc%C3%ADa/)
 - [Correo Electrónico](mailto:bea.interamplify@gmail.com)
 ##  Educación 👩‍🏫
 - [Graduada en Educación Primaria]
