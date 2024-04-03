@@ -14,6 +14,6 @@ Soy una apasionada . Me encanta trabajar en proyectos que desafían mi creativid
 - Lenguajes de Programación: JavaScript, Css, Html
 - Herramientas: Git
 ##  ¿Cómo puedes ayudarme? 📭
-- :apretón-manos: Contribuir a proyectos de código abierto
-- :bocadillo_de_diálogo: Compartir tus ideas o proyectos
-- :altavoz_sonando: Compartir mi trabajo con tus contactos
+- Contribuir a proyectos de código abierto
+- Compartir tus ideas o proyectos
+- Compartir mi trabajo con tus contactos
