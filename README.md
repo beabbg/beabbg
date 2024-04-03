@@ -5,8 +5,6 @@ Soy una apasionada . Me encanta trabajar en proyectos que desafían mi creativid
 ##  Cómo contactarme 📧
 - [LinkedIn]([https://www.linkedin.com/in/beatrizbaltan%C3%A1sgarc%C3%ADa/])
 - [Correo Electrónico](mailto:bea.interamplify@gmail.com)
-##  GitHub Stats 🥇
-![beabbg's GitHub stats](https://github-readme-stats.vercel.app/api?username=Dizqpon&show_icons=true&theme=radical&include_all_commits=true)
 ##  Educación 👩‍🏫
 - [Graduada en Educación Primaria]
 - [Grado en Desarrollo de Aplicaciones Web]
