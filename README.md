@@ -1,7 +1,7 @@
 # Hola, soy Beatriz 👋
 ![Beabbg's GitHub stats](https://github-readme-stats.vercel.app/api?username=beabbg&show_icons=true&theme=radical)
 ##  Acerca de mí 🚺
-Soy una apasionada . Me encanta trabajar en proyectos que desafían mi creatividad y me permiten crecer profesionalmente.
+Soy una apasionada de la informática. Me encanta trabajar en proyectos que desafían mi creatividad y me permiten crecer profesionalmente.
 ##  Cómo contactarme 📧
 - [LinkedIn](https://www.linkedin.com/in/beatrizbaltan%C3%A1sgarc%C3%ADa/)
 - [Correo Electrónico](mailto:bea.interamplify@gmail.com)
