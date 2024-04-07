@@ -7,8 +7,9 @@ Me encanta trabajar en proyectos que desafían mi creatividad y me permiten crec
 [![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/beatriz-baltan%C3%A1s-garc%C3%ADa-277678187/)
 [![Gmail Badge](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:triciabbg@gmail.com)
 ##  Educación 👩‍🏫
-- [Graduada en Educación Primaria](#)
-- [Grado en Desarrollo de Aplicaciones Web](#)
+### Educación
+- <span style="color:blue">Graduada en Educación Primaria</span>
+- <span style="color:red">Grado en Desarrollo de Aplicaciones Web</span>
 ##  Habilidades 💻
 ![Html5 Badge](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![Css3 Badge](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
