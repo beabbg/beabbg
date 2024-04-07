@@ -1,7 +1,9 @@
 # Hola 👋
-🅱️ Me llamo Bea.
-📍 Soy de España.
-💼 Actualmente estoy trabajando como becaria en Interamplify. 
+🅱️ Me llamo Bea
+
+📍 Soy de España
+
+💼 Actualmente estoy trabajando como becaria en Interamplify
 ##  Acerca de mí 🪪
 Soy una apasionada de la informática. 
 Me encanta trabajar en proyectos que desafían mi creatividad y me permiten crecer profesionalmente.
