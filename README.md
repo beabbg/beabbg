@@ -1,6 +1,6 @@
 # Hola, soy Bea 👋
 ![Beabbg's GitHub stats](https://github-readme-stats.vercel.app/api?username=beabbg&show_icons=true&theme=radical)
-##  Acerca de mí 🚺
+##  Acerca de mí 🪪
 Soy una apasionada de la informática. 
 Me encanta trabajar en proyectos que desafían mi creatividad y me permiten crecer profesionalmente.
 ##  Cómo contactarme 📧
@@ -9,7 +9,7 @@ Me encanta trabajar en proyectos que desafían mi creatividad y me permiten crec
 ##  Educación 👩‍🏫
 - [Graduada en Educación Primaria]
 - [Grado en Desarrollo de Aplicaciones Web]
-##  Habilidades 🌱
+##  Habilidades 💻
 ![Html5 Badge](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![Css3 Badge](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![JavaScript Badge](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
