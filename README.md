@@ -4,7 +4,7 @@
 Soy una apasionada de la informática. Me encanta trabajar en proyectos que desafían mi creatividad y me permiten crecer profesionalmente.
 ##  Cómo contactarme 📧
 - [LinkedIn](https://www.linkedin.com/in/beatrizbaltan%C3%A1sgarc%C3%ADa/)
-- https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white(mailto:bea.interamplify@gmail.com)
+- [https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white](mailto:bea.interamplify@gmail.com)
 ##  Educación 👩‍🏫
 - [Graduada en Educación Primaria]
 - [Grado en Desarrollo de Aplicaciones Web]
