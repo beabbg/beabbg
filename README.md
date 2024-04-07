@@ -9,7 +9,7 @@ Soy una apasionada de la informática. Me encanta trabajar en proyectos que desa
 - [Graduada en Educación Primaria]
 - [Grado en Desarrollo de Aplicaciones Web]
 ##  Habilidades 🌱
-- Lenguajes de Programación: JavaScript, Css, Html
+[![Html5 Badge](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)]
 - Herramientas: Git
 ##  ¿Cómo puedes ayudarme? 📭
 - Contribuir a proyectos de código abierto
