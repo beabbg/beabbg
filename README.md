@@ -16,7 +16,4 @@ Me encanta trabajar en proyectos que desafían mi creatividad y me permiten crec
 ![Git Badge](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)
 ![MysQL Badge](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
 ![Visual Badge](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
-##  ¿Cómo puedes ayudarme? 📭
-- Contribuir a proyectos de código abierto
-- Compartir tus ideas o proyectos
-- Compartir mi trabajo con tus contactos
+
