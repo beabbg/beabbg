@@ -1,4 +1,6 @@
 # Hola, soy Bea 👋
+
+## Github Stats
 ![Beabbg's GitHub stats](https://github-readme-stats.vercel.app/api?username=beabbg&show_icons=true&theme=radical)
 ##  Acerca de mí 🪪
 Soy una apasionada de la informática. 
