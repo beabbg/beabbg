@@ -8,8 +8,10 @@ Me encanta trabajar en proyectos que desafían mi creatividad y me permiten crec
 [![Gmail Badge](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:triciabbg@gmail.com)
 ##  Educación 👩‍🏫
 ### Educación
-- <span style="color:blue">Graduada en Educación Primaria</span>
-- <span style="color:red">Grado en Desarrollo de Aplicaciones Web</span>
+<div style="border: 1px solid #ccc; background-color: #f0f0f0; padding: 10px;">
+    <p style="color: blue;">Graduada en Educación Primaria</p>
+    <p style="color: red;">Grado en Desarrollo de Aplicaciones Web</p>
+</div>
 ##  Habilidades 💻
 ![Html5 Badge](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![Css3 Badge](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
