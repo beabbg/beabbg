@@ -14,6 +14,7 @@ Me encanta trabajar en proyectos que desafían mi creatividad y me permiten crec
 ![Css3 Badge](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![JavaScript Badge](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
 ![Git Badge](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)
+![MysQL Badge](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
 ##  ¿Cómo puedes ayudarme? 📭
 - Contribuir a proyectos de código abierto
 - Compartir tus ideas o proyectos
