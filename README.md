@@ -1,5 +1,7 @@
-# Hola, soy Bea 👋
-Soy de España y actualmente estoy trabajando como becaria en Interamplify
+# Hola 👋
+* Me llamo Bea. 
+* Soy de España.
+* Actualmente estoy trabajando como becaria en Interamplify.
 ## GitHub Stats
 ![Beabbg's GitHub stats](https://github-readme-stats.vercel.app/api?username=beabbg&show_icons=true&theme=radical)
 ##  Acerca de mí 🪪
