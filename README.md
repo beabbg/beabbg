@@ -1,12 +1,12 @@
 # Hola 👋
-* Me llamo Bea. 
+* Me llamo Bea.
 * Soy de España.
 * Actualmente estoy trabajando como becaria en Interamplify.
-## GitHub Stats
-![Beabbg's GitHub stats](https://github-readme-stats.vercel.app/api?username=beabbg&show_icons=true&theme=radical)
 ##  Acerca de mí 🪪
 Soy una apasionada de la informática. 
 Me encanta trabajar en proyectos que desafían mi creatividad y me permiten crecer profesionalmente.
+## GitHub Stats
+![Beabbg's GitHub stats](https://github-readme-stats.vercel.app/api?username=beabbg&show_icons=true&theme=radical)
 ##  Cómo contactarme 📧
 [![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/beatriz-baltan%C3%A1s-garc%C3%ADa-277678187/)
 [![Gmail Badge](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:triciabbg@gmail.com)
