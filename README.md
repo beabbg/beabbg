@@ -6,6 +6,7 @@
 💼 Actualmente estoy trabajando como becaria en Interamplify
 ##  Acerca de mí 🪪
 Soy una apasionada de la informática. 
+
 Me encanta trabajar en proyectos que desafían mi creatividad y me permiten crecer profesionalmente.
 ##  Cómo contactarme 📧
 [![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/beatriz-baltan%C3%A1s-garc%C3%ADa-277678187/)
