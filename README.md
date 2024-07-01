@@ -3,7 +3,7 @@
 
 📍 Soy de España
 
-💼 Actualmente estoy trabajando como becaria en Interamplify
+💼 He tenido mi experiencia laboral en el departamento de Desarrollo Web con Interamplify
 ##  Acerca de mí 🪪
 Soy una apasionada de la informática. 
 
