@@ -3,7 +3,7 @@
 
 📍 Soy de España
 
-💼 He tenido mi primera experiencia laboral en el departamento de Desarrollo Web con Interamplify
+💼 Trabajo como Desarrolladora Mainframe HOST PL/1 en NTT DATA
 ##  Acerca de mí 🪪
 Soy una apasionada de la informática. 
 
